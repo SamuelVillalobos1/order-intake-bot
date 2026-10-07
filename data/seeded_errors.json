@@ -1,0 +1,14 @@
+{
+  "total_rows": 200,
+  "rows_with_errors": 30,
+  "expected_valid": 170,
+  "errors_by_type": {
+    "order_id_vacio": 5,
+    "order_id_duplicado": 5,
+    "email_invalido": 4,
+    "sku_inexistente": 4,
+    "cantidad_invalida": 4,
+    "fecha_invalida": 4,
+    "precio_invalido": 4
+  }
+}
